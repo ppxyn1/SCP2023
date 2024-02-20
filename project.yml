@@ -1,0 +1,14 @@
+name: stars
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - notebook
+  - numpy
+  - matplotlib
+  - astropy
+  - astroquery
+  - pandas
+  - skyfield
+prefix: /Users/iamyoungjin/opt/anaconda3/envs/stars
